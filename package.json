@@ -1,0 +1,24 @@
+{
+  "name": "bitbucket-snipppet",
+  "version": "1.0.0",
+  "description": "A command line toolfo creating bit bucket snippet",
+  "main": "start.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlecuyer/board-game.git"
+  },
+  "author": "Hugo Lecuyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlecuyer/board-game/issues"
+  },
+  "homepage": "https://github.com/hlecuyer/board-game#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
